@@ -1,0 +1,27 @@
+.navbar{
+    background-color: transparent;
+    height: 70px;
+}
+.navbars{
+    z-index: 10;
+    background-color: #171f32;
+    position: sticky;
+    top: 0px;
+    height: 70px;
+}
+.link{
+    text-decoration: none;
+}
+.navLinks li{
+    list-style: none;
+}
+.section{
+    background: url("../../../public/img/backimg.jpg") no-repeat;
+    background-size: cover;
+    height: 100vh;
+   margin-top: -70px;
+}
+.sectionTxt{
+    color: white;
+    padding-top: 10rem;
+}
