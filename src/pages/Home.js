@@ -8,7 +8,7 @@ const Home = () => {
             <div className="col-lg-4 col-md-12 mb-md-3" >
                     <div className="sec_card me-md-1 row">
                         <div className="col-md-3">
-                            <img src="./img/access.png" className='w-100' />
+                            <img src="./img/access.png" alt="test" className='w-100' />
                         </div>
                         <div className="col-md-9">
                         <div className='homeTxt'>
@@ -21,7 +21,7 @@ const Home = () => {
                 <div className="col-lg-4 col-md-12 mb-md-3" >
                     <div className="sec_card me-md-1 row">
                         <div className="col-md-3">
-                            <img src="./img/online.png" className='w-100' />
+                            <img src="./img/online.png" alt="test" className='w-100' />
                         </div>
                         <div className="col-md-9">
                         <div className='homeTxt'>
@@ -34,7 +34,7 @@ const Home = () => {
                 <div className="col-lg-4 col-md-12 mb-md-3" >
                     <div className="sec_card me-md-1 row">
                         <div className="col-md-3">
-                            <img src="./img/expert.png" className='w-100' />
+                            <img src="./img/expert.png" alt="test" className='w-100' />
                         </div>
                         <div className="col-md-9">
                         <div className='homeTxt'>
@@ -60,7 +60,7 @@ const Home = () => {
                     <div className="col-lg-4 col-md-6 mb-3 cards">
                         <div className="card">
                             <div className="card-img">
-                                <img src="./img/online/ge1.jpg" className='w-100' alt="" />
+                                <img src="./img/online/ge1.jpg" alt="test" className='w-100'  />
                             </div>
                             <div className="d-flex card_details">
                                 <div className="col-2">
@@ -76,7 +76,7 @@ const Home = () => {
                     <div className="col-lg-4 col-md-6 mb-3 cards">
                         <div className="card">
                             <div className="card-img">
-                                <img src="./img/online/cs1.jpg" className='w-100' alt="" />
+                                <img src="./img/online/cs1.jpg" className='w-100' alt="test" />
                             </div>
                             <div className="d-flex card_details">
                                 <div className="col-2">
@@ -92,7 +92,7 @@ const Home = () => {
                     <div className="col-lg-4 col-md-6 mb-3 cards">
                         <div className="card">
                             <div className="card-img">
-                                <img src="./img/online/ce1.jpg" className='w-100' alt="" />
+                                <img src="./img/online/ce1.jpg" className='w-100' alt="test" />
                             </div>
                             <div className="d-flex card_details">
                                 <div className="col-2">
@@ -108,7 +108,7 @@ const Home = () => {
                     <div className="col-lg-4 col-md-6 mb-3 cards">
                         <div className="card">
                             <div className="card-img">
-                                <img src="./img/online/bs1.jpg" className='w-100' alt="" />
+                                <img src="./img/online/bs1.jpg" className='w-100' alt="test" />
                             </div>
                             <div className="d-flex card_details">
                                 <div className="col-2">
@@ -124,7 +124,7 @@ const Home = () => {
                     <div className="col-lg-4 col-md-6 mb-3 cards">
                         <div className="card">
                             <div className="card-img">
-                                <img src="./img/online/ai1.jpg" className='w-100' alt="" />
+                                <img src="./img/online/ai1.jpg" alt="test" className='w-100'  />
                             </div>
                             <div className="d-flex card_details">
                                 <div className="col-2">
@@ -140,7 +140,7 @@ const Home = () => {
                     <div className="col-lg-4 col-md-6 mb-3 cards">
                         <div className="card">
                             <div className="card-img">
-                                <img src="./img/online/ceng1.jpg" className='w-100' alt="" />
+                                <img src="./img/online/ceng1.jpg" className='w-100' alt="test" />
                             </div>
                             <div className="d-flex card_details">
                                 <div className="col-2">
